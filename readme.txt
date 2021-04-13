@@ -1,0 +1,1 @@
+offline version can be run locally by opening HTML file while the CSS and JS files are in the same folder
